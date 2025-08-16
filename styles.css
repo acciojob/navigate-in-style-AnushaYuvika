@@ -4,7 +4,7 @@ nav {
 }
 
 ul {
-    list-style-type: none;
+    list-style: none;  /* safer keyword */
     margin: 0;
     padding: 0;
 }
